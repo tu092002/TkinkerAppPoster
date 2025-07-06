@@ -1,0 +1,3 @@
+TÌM ĐƯỜNG DẪN "C:\Users\nitro 5\.autoFacebookPoster_app_resources\groupfile.txt"
+TÌM ĐƯỜNG DẪN "C:\Users\nitro 5\.autoFacebookPoster_app_resources\postfile.txt"
+TÌM ĐƯỜNG DẪN "C:\Users\nitro 5\.autoFacebookPoster_app_resources\token.json"
